@@ -11,3 +11,7 @@
 
 Glad to meet more friends with the same passion on the new things. ✨
 
+<h2>🏆 Github Profile Trophy</h2>
+<img src="https://github-profile-trophy.vercel.app/?username=researchlab&column=6"/>
+
+
